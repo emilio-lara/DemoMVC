@@ -1,0 +1,9 @@
+package com.telusko;
+
+public class AddController {
+	private void add() {
+		System.out.println("I am here");
+
+	}
+
+}
